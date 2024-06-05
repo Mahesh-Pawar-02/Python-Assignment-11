@@ -1,0 +1,8 @@
+--------------------------------------------------------------------------------
+Welcome..! to Log File 
+Log File created at : Wed Jun  5 23:31:45 2024
+--------------------------------------------------------------------------------
+Dublicate file are : 
+--------------------------------------------------------------------------------
+C:\Users\mahes\OneDrive\Desktop\Python-Assignment-11\Test\Dublicate_Program1.c
+C:\Users\mahes\OneDrive\Desktop\Python-Assignment-11\Test\Dublicate_Program2.c
